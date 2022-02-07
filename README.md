@@ -5,4 +5,4 @@
 # 4. V Seq number to rebuild files
 # 5. File name might be longer than 32 - NVM
 # 6. File Size limit - About 13 MB
-
+# 7. in C2 - if no 0 recieved data wont reset and override last file
